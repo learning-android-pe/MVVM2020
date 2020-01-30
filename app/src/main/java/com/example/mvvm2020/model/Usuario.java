@@ -1,4 +1,4 @@
-package com.example.mvvm2020.save_mvvm.object;
+package com.example.mvvm2020.model;
 
 import com.google.gson.annotations.SerializedName;
 

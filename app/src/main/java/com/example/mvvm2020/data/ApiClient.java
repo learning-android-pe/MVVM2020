@@ -1,6 +1,6 @@
-package com.example.mvvm2020.save_mvvm;
+package com.example.mvvm2020.data;
 
-import com.example.mvvm2020.save_mvvm.object.Usuario;
+import com.example.mvvm2020.model.Usuario;
 
 import retrofit2.Call;
 import retrofit2.http.Field;
